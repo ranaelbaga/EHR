@@ -97,7 +97,7 @@ DATABASES = {
         'OPTIONS':{'sslmode':'require'},
     }
 }
-
+#postgres://rana:'Rana1411'@rana1210134.postgres.database.azure.com:5432/postgres
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
